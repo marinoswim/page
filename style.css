@@ -16,22 +16,7 @@ html{
    width: 150px;
    margin-top: 14px;
    }
-   .main-nav{
-   display:flex;
-   font-size:1.25rem;
-   text-transform: uppercase;
-   margin-top: 34px;
-   list-style:none;
-   }
-   .main-nav li{
-   margin-left:36px;
-   }
-   .main-nav a{
-   color:black;
-   }
-   .main-nav a:hover;{
-   color:#0bd;
-   }
+ 
    .page-header{
    display:flex;
    justify-content: space-between;
@@ -88,7 +73,7 @@ html{
     .news-contents{
     display:flex;
     justify-contents:space-between;
-    margin-bottom: 150px;
+    margin-bottom: 30px;
     }
     .post-info{
     position: relative;
